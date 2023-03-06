@@ -1,0 +1,29 @@
+@media screen and (max-width: 800px) {
+  .section {
+    // margin: unset;
+    // margin-top: 2rem;
+
+    // margin: auto;
+
+    // bottom: 2rem;
+    height: 80vh;
+    // width: 90%;
+
+    h1 {
+      font-size: 1.6rem;
+      padding: 0 1.5rem;
+    }
+
+    p {
+      padding: 0.5rem;
+      font-size: medium;
+      font-size: medium;
+      overflow-x: auto;
+    }
+
+    //   transform: translateX(-50%);
+    //   &:hover {
+    //     transform: translateX(-50%) skewX(-10deg);
+    //   }
+  }
+}
